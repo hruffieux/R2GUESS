@@ -6,8 +6,9 @@
 
 ## Installation
 
-You can install the released version of `R2GUESS` from [CRAN](https://CRAN.R-project.org) with:
+To install the R package please use: 
 
 ``` r
-install.packages("R2GUESS")
+if(!require(remotes)) install.packages("remotes")
+remotes::install_github("hruffieux/R2GUESS")
 ```
