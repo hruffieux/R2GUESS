@@ -4,4 +4,15 @@
 vignettes/*.html
 vignettes/*.pdf
 .Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+.DS_Store
+
+# ignore temporary file system files
+.nfs*
+
+# temporary files emacs
 *~
+[#]*[#]
+.\#*
