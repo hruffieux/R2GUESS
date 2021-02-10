@@ -29,7 +29,7 @@ License: GPL-3
 URL: https://github.com/ImperialCollegeLondon/R2GUESS
 BugReports:
     https://github.com/ImperialCollegeLondon/R2GUESS/issues
-biocViews:
+biocViews: mixOmics
 Depends:
     fields (>= 9.6),
     MCMCpack (>= 1.4.3),

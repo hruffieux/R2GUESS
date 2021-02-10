@@ -6,8 +6,6 @@
 <!-- For the R CMD checks, run usethis::use_github_actions() to set up the pipeline, possibly modify the .yaml file and then: -->
 
 [![](https://travis-ci.org/hruffieux/R2GUESS.svg?branch=master)](https://travis-ci.org/hruffieux/R2GUESS)
-[![R build
-status](https://github.com/hruffieux/R2GUESS/workflows/R-CMD-check/badge.svg)](https://github.com/hruffieux/R2GUESS/actions)
 [![License: GPL
 v3](https://img.shields.io/badge/license-GPL%20v3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 [![](https://img.shields.io/badge/devel%20version-2.0-blue.svg)](https://github.com/hruffieux/R2GUESS)
