@@ -7,8 +7,8 @@
 
 [![License: GPL
 v3](https://img.shields.io/badge/license-GPL%20v3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
-[![](https://img.shields.io/badge/devel%20version-2.0-blue.svg)](https://github.com/hruffieux/R2GUESS)
-[![](https://img.shields.io/github/languages/code-size/hruffieux/R2GUESS.svg)](https://github.com/hruffieux/R2GUESS)
+[![](https://img.shields.io/badge/devel%20version-2.0-blue.svg)](https://github.com/lb664/R2GUESS)
+[![](https://img.shields.io/github/languages/code-size/lb664/R2GUESS.svg)](https://github.com/lb664/R2GUESS)
 <!-- badges: end -->
 
 `R2GUESS` provides wrapper functions for GUESS, a GPU-accelerated sparse
@@ -21,5 +21,5 @@ You can install the development version of `R2GUESS` with:
 
 ``` r
 if(!require(remotes)) install.packages("remotes")
-remotes::install_github("hruffieux/R2GUESS")
+remotes::install_github("lb664/R2GUESS")
 ```
